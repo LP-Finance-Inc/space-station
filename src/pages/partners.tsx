@@ -35,6 +35,7 @@ const portfinance = '/img/defi/portfinance.svg';
 const tulip = '/img/defi/tulip.png';
 const marginfi = '/img/defi/marginfi.svg';
 const samoyed = '/img/defi/samoyed.svg';
+const lpfinance = `/img/defi/lpfinance.png`
 
 const aldrin = '/img/dex_amm/aldrin.png';
 const balansol = '/img/dex_amm/balansol.svg';
@@ -245,6 +246,11 @@ const sections = [
         logo: samoyed,
         link: 'https://dogcoincomparison.com/'
       },
+      {
+        title: 'LP Finance TWAMM',
+        logo: lpfinance,
+        link: 'https://www.twap.so/'
+      }
     ],
   },
   {
